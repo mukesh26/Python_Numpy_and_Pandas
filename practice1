@@ -1,0 +1,3 @@
+import numpy as np
+import panda as pd
+series1=pd.Series([1,2,3,3])
